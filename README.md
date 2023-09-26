@@ -5,6 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Some new stuff here.
+And here
 
 A collection of simple python mini projects to enhance your Python skills.
 
